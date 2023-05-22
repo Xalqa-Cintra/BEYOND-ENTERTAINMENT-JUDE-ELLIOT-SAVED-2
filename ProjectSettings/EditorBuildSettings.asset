@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 5bd2bb460be499a419a10ea38c8768d5
+  - enabled: 1
+    path: Assets/Scenes/Menu/SettingsMenu.unity
+    guid: c9b8ad4dddd210e47b29349769514bc0
+  - enabled: 1
+    path: Assets/Scenes/Menu/CreditsMenu.unity
+    guid: c2a1c1c5b4495724cb0773be69c605e2
+  - enabled: 1
+    path: Assets/Scenes/Menu/Names/Names2/Alex.unity
+    guid: 01d570d374f39a6478bd1e2459b91837
+  - enabled: 1
+    path: Assets/Scenes/Menu/Names/Names2/Elliot.unity
+    guid: 454438c757378cd4c8e393870facc231
+  - enabled: 1
+    path: Assets/Scenes/Menu/Names/Names2/Jeremiah.unity
+    guid: adae23a720c74384c9d987edd616b350
+  - enabled: 1
+    path: Assets/Scenes/Menu/Names/Names2/Jude.unity
+    guid: c63673837f6124d45b82050faede28c4
+  - enabled: 1
+    path: Assets/Scenes/Menu/Names/Names2/Liam.unity
+    guid: d3a06d61392898146b5fefdcbe5aa765
+  - enabled: 1
+    path: Assets/Scenes/LOADING 2.unity
+    guid: bbb9871b29b5996429b29a1b86f2355c
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 9e41906b6a50bd14593f5c66c42012c7
+  - enabled: 1
+    path: Assets/Scenes/Newspaper Scene.unity
+    guid: 202bb43561e801a419e69afe7cba1c38
+  - enabled: 1
+    path: Assets/Scenes/LOADING.unity
+    guid: ad10ae4382327f14ca635baf968f9c02
+  - enabled: 1
+    path: Assets/Scenes/MainGame Day2.unity
+    guid: 1d2574886236ad841b2cbc890af322aa
+  - enabled: 1
+    path: Assets/Scenes/Newspaper Scene 1.unity
+    guid: c1e5e782f5c29a543b3c2c5cbe720f89
+  - enabled: 1
+    path: Assets/Scenes/LOADING 1.unity
+    guid: 8efdbd2e93b9efd4faddfb637e376bc7
+  - enabled: 1
+    path: Assets/Scenes/MainGame Day3.unity
+    guid: 18e120a61da794248b22308c5024b140
+  - enabled: 1
+    path: Assets/Scenes/Newspaper Scene 2.unity
+    guid: b3aa6d3cd869e7c4ab9b8685846636e6
+  - enabled: 1
+    path: Assets/Scenes/GameEnd.unity
+    guid: 833832297f41a7845aebb906947d30af
+  - enabled: 0
+    path: Assets/Scenes/old scenes/Rain.unity
+    guid: 489e05e7119040e4daabe92cdb9c9f50
+  m_configObjects: {}
